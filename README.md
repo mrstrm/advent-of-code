@@ -3,8 +3,8 @@ My solutions and templates for AOC.
 
 ## Templates
 
-[Kotlin](https://github.com/codetreats/aoc-template-kotlin)
-[Python](https://github.com/codetreats/aoc-template-python)
+- [Kotlin](https://github.com/codetreats/aoc-template-kotlin)
+- [Python](https://github.com/codetreats/aoc-template-python)
 
 ## Solutions
 
