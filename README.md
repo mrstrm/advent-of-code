@@ -9,5 +9,6 @@ My solutions and templates for AOC.
 ## Solutions
 
 - [https://github.com/codetreats/aoc2020](https://github.com/codetreats/aoc2020) (Python)
-- [https://github.com/codetreats/aoc2021](https://github.com/codetreats/aoc2021) (Kotlin
+- [https://github.com/codetreats/aoc2021](https://github.com/codetreats/aoc2021) (Kotlin)
 - [https://github.com/codetreats/aoc2022-py](https://github.com/codetreats/aoc2022-py) (Python)
+- [https://github.com/codetreats/aoc2021](https://github.com/codetreats/aoc2023) (Kotlin)
